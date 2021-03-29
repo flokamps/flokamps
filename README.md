@@ -10,3 +10,7 @@ Follow me on my differents social networks to get in touch:
 - [Linkedin](https://www.linkedin.com/in/florian-kamps/)
 - [Obret's Linkedin](https://www.linkedin.com/company/69628819)
 - [Stackoverflow](https://stackoverflow.com/users/13174476/florian-kamps)
+
+## Some stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
