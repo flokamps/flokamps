@@ -14,7 +14,7 @@ Follow me on my differents social networks to get in touch:
 ## Some stats
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
 Blade Template   17 hrs 22 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.89 % 
 PHP              8 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.01 % 
