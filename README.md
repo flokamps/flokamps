@@ -4,7 +4,7 @@
 
 
 ## Hi!
-I'm Florian Kamps, a first year student at Epitech Lyon campus and CEO of Obret! I'm glad to see you on my profile which you can find some open-source projects, especially with Javascript stack.
+I'm Florian Kamps, a second year student at Epitech Lyon campus and CEO of Obret! I'm glad to see you on my profile which you can find some open-source projects, especially with Javascript stack.
 
 Follow me on my differents social networks to get in touch:
 - [Linkedin](https://www.linkedin.com/in/florian-kamps/)
