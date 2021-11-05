@@ -14,6 +14,8 @@ Follow me on my differents social networks to get in touch:
 ## Some stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 October, 2021 - 04 November, 2021
+
+
 ```
 <!--END_SECTION:waka-->
