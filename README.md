@@ -14,7 +14,7 @@ Follow me on my differents social networks to get in touch:
 ## Some stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
 EJS    46 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.89 % 
 JSON   17 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.11 % 
