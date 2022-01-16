@@ -14,8 +14,6 @@ Follow me on my differents social networks to get in touch:
 ## Some stats
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
-
-Haskell      1 hr 24 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
