@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=flokamps&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ## CodeWars level
-![codewars](https://www.codewars.com/users/RootMeIH/badges/large)
+![codewars](https://www.codewars.com/users/dolor3sh4ze/badges/large)
 
 
 ## Hi!
@@ -8,7 +8,7 @@ I'm Florian Kamps, a second year student at Epitech Lyon campus! I'm glad to see
 
 Follow me on my differents social networks to get in touch:
 - [Linkedin](https://www.linkedin.com/in/florian-kamps/)
-- [Stackoverflow](https://stackoverflow.com/users/13174476/florian-kamps)
+- [Stackoverflow](https://stackoverflow.com/users/13174476/dolor3sh4ze)
 - [Malt](https://www.malt.fr/profile/floriankamps)
 
 ## Some stats
