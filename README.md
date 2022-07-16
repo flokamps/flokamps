@@ -12,8 +12,8 @@ Follow me on my differents social networks to get in touch:
 - [Malt](https://www.malt.fr/profile/floriankamps)
 
 ## Some stats
+[![wakatime](https://wakatime.com/badge/user/7ce504cb-af1d-4964-8dca-f7361bb34d1e.svg)](https://wakatime.com/@7ce504cb-af1d-4964-8dca-f7361bb34d1e)
 <!--START_SECTION:waka-->
-
 ```text
 From: 08 July 2022 - To: 15 July 2022
 
