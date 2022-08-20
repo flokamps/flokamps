@@ -1,6 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=flokamps&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-## TryHackMe
 [![tryhackme stats](https://raw.githubusercontent.com/flokamps/flokamps/master/assets/thm_propic.png)](https://tryhackme.com/p/dolor3sh4ze)
 
 ## Hi!
