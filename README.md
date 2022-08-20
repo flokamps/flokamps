@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=flokamps&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## TryHackMe
-![tryhackme stats(https://raw.githubusercontent.com/flokamps/flokamps/master/assets/thm_propic.png)](https://tryhackme.com/p/dolor3sh4ze)
+[![tryhackme stats](https://raw.githubusercontent.com/flokamps/flokamps/master/assets/thm_propic.png)](https://tryhackme.com/p/dolor3sh4ze)
 
 ## Hi!
 I'm Florian Kamps, a third year student at Epitech Lyon campus! I'm glad to see you on my profile which you can find some open-source projects, especially with Javascript stack.
