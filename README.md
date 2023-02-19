@@ -15,7 +15,7 @@ Follow me on my differents social networks to get in touch:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
 TypeScript   1 hr 59 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.81 %
 GraphQL      26 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.07 %
