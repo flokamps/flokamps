@@ -3,7 +3,10 @@
 [![tryhackme stats](https://raw.githubusercontent.com/flokamps/flokamps/master/assets/thm_propic.png)](https://tryhackme.com/p/dolor3sh4ze)
 
 ## Hi!
-I'm Florian Kamps, a third year student at Epitech Lyon campus! I'm glad to see you on my profile which you can find some open-source projects, especially with Javascript stack.
+I'm Florian Kamps! I'm glad to see you on my profile which you can find some open-source projects, especially with Javascript stack.
+I'm running Studio Eleven, providing web development, devops and sysadmin services.
+I'm a fullstack web developer, I love creative web development and complex backend architectures.
+I've made a bit of software development notably at Airbus for aviation purposes
 
 Follow me on my differents social networks to get in touch:
 - [Linkedin](https://www.linkedin.com/in/florian-kamps/)
