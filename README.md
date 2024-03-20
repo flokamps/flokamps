@@ -10,6 +10,7 @@ I've made a bit of software development notably at Airbus for aviation purposes
 
 Follow me on my differents social networks to get in touch:
 - [Linkedin](https://www.linkedin.com/in/florian-kamps/)
+- [Medium](https://medium.com/@dolor3sh4ze)
 - [Stackoverflow](https://stackoverflow.com/users/13174476/dolor3sh4ze)
 - [Malt](https://www.malt.fr/profile/floriankamps)
 
