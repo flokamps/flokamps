@@ -19,7 +19,7 @@ Follow me on my differents social networks to get in touch:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2024 - To: 26 July 2024
+From: 20 July 2024 - To: 27 July 2024
 
 PHP          2 hrs 12 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀   74.14 %
 JavaScript   26 mins         ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.59 %
